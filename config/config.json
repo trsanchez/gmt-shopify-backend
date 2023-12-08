@@ -1,0 +1,17 @@
+{
+    "dbName": "gmt_shopify",
+    "dbConfig": {
+        "server": "127.0.0.1",
+        "options": {
+            "port": 1433,
+            "trustServerCertificate": true
+        },
+        "authentication": {
+            "type": "default",
+            "options": {
+                "userName": "gmt_shop_user",
+                "password": "gmT_Shop9"
+            }
+        }
+    }
+}

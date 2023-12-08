@@ -1,0 +1,24 @@
+{
+  "name": "gmt-shopify-backend",
+  "version": "1.0.0",
+  "description": "Node app to connect to Shopify API",
+  "main": "index.js",
+  "repository": "https://github.com/trsanchez/gmt-shopify-backend.git",
+  "author": "Tito Ruiz",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@shopify/shopify-api": "^8.1.1",
+    "await-to-js": "^3.0.0",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "graphql-request": "^6.1.0",
+    "node-fetch": "^3.3.2",
+    "parse-error": "^0.2.0",
+    "request-promise": "^4.2.6",
+    "sequelize": "^6.35.1",
+    "tedious": "^16.6.1"
+  }
+}

@@ -1,5 +1,5 @@
 {
-    "dbName": "gmt_shopify",
+    "dbName": "db_name",
     "dbConfig": {
         "server": "127.0.0.1",
         "options": {
@@ -9,8 +9,8 @@
         "authentication": {
             "type": "default",
             "options": {
-                "userName": "gmt_shop_user",
-                "password": "gmT_Shop9"
+                "userName": "db_username",
+                "password": "db_username_password"
             }
         }
     }
